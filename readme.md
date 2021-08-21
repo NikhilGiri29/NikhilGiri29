@@ -1,6 +1,6 @@
-<h1> Hello, I'm Nikhil </h1>
-<h3> A Biotech Undergrad Student from IIT KGP, India <h3>
+# Hello, I'm Nikhil 
+### A Biotech Undergrad Student from IIT Kharagpur, India 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilgiri29&show_icons=true&locale=en&layout=compact" alt="nikhilgiri29" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgiri29&layout=compact)](hhttps://github.com/NikhilGiri29?tab=repositories)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilgiri29&show_icons=true&locale=en" alt="nikhilgiri29" /></p><>
+[![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilgiri29&show_icons=true&count_private=true)](https://github.com/NikhilGiri29?tab=repositories)
